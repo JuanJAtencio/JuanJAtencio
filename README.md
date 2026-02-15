@@ -1,55 +1,101 @@
-# 👋 Hola, soy Juan Atencio
+<h1 align="center">👋 Hola, soy Juan Atencio</h1>
 
-💻 QA Analyst orientado a testing financiero y automatización.
-
-Actualmente enfocado en:
-
-✔️ Testing de APIs (Postman / Newman)  
-✔️ Automatización Web (Cypress)  
-✔️ SQL y validación de datos  
-✔️ Proyectos QA para portfolio profesional  
+<p align="center">
+QA Analyst | Automation Testing | Fintech & Banking Focus
+</p>
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Sobre mí
 
-- Postman / Newman
-- Cypress
-- JavaScript
-- SQL Server
-- Git / GitHub
-- Testing QA Manual & Automation
+Soy **QA Analyst** con experiencia en testing manual y automatizado, enfocado en aplicaciones financieras, APIs y validación de datos.
+
+Me especializo en:
+
+✔ Testing End-to-End  
+✔ Automatización de pruebas  
+✔ Testing de APIs  
+✔ Validación de datos con SQL  
+✔ Metodologías ágiles (Scrum)  
+
+Actualmente estoy fortaleciendo mis habilidades en **QA Automation orientado al sector Fintech y Bancario**.
 
 ---
 
-## 📂 Proyectos Destacados
+## 🧰 Tecnologías y Herramientas
 
-🔹 Cypress Parabank Testing  
-https://github.com/JuanJAtencio/cypress-parabank  
+![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress)
+![Postman](https://img.shields.io/badge/-Postman-F76935?style=for-the-badge&logo=postman)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira)
 
-🔹 Sistema Gestión de Productos (Python CRUD)  
-https://github.com/JuanJAtencio/sistema-gestion-productos  
+---
 
-🔹 Fintech API Testing (Postman)  
-(En progreso)
+## 🧪 Proyectos Destacados
+
+### 🔹 QA Automation – Cypress (Banking Demo)
+Automatización de pruebas end-to-end sobre aplicación bancaria simulada.
+
+✔ Login  
+✔ Transferencias  
+✔ Validaciones UI  
+✔ Flujo completo de usuario  
+
+👉 Repo:  
+https://github.com/JuanJAtencio/cypress-parabank
+
+---
+
+### 🔹 Sistema de Gestión de Productos – Python
+Aplicación CRUD en Python para gestión de productos.
+
+✔ Crear productos  
+✔ Editar  
+✔ Eliminar  
+✔ Buscar por ID  
+
+👉 Repo:  
+https://github.com/JuanJAtencio/sistema-gestion-productos
+
+---
+
+### 🔹 Fintech API Testing (En progreso)
+Proyecto de testing de APIs financieras con Postman y Newman.
+
+✔ Autenticación  
+✔ Transferencias  
+✔ Validación de respuestas  
+✔ Tests automatizados  
+
+---
+
+## 📊 Estadísticas
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=JuanJAtencio&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJAtencio&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 🎯 Objetivo Profesional
 
-Mi objetivo es desarrollarme como **QA Automation Engineer** dentro del sector:
-
-🏦 Banca  
-💳 Fintech  
-📈 Sistemas financieros  
+Desarrollarme como **QA Automation Engineer** en proyectos fintech o bancarios, aportando calidad, confiabilidad y automatización eficiente en productos financieros.
 
 ---
 
 ## 📫 Contacto
 
-LinkedIn: www.linkedin.com/in/juan-atencio-a1610a149 
-Email: Atenciojuan@live.com
+📧 Email: Atenciojuan@live.com 
+💼 LinkedIn: https://www.linkedin.com/in/juan-atencio-a1610a149/
 
 ---
 
-⭐ Siempre aprendiendo y mejorando mis habilidades en testing.
+⭐ Siempre abierto a oportunidades y colaboración en proyectos QA.
+
