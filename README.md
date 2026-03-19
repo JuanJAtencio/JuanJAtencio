@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Juan Atencio</h1>
 
 <p align="center">
-QA Analyst | Automation Testing | Fintech & Banking Focus
+QA Analyst | Automation Testing | 
 </p>
 
 ---
