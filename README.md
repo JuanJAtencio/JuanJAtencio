@@ -8,7 +8,7 @@ QA Analyst | Automation Testing |
 
 ## 🚀 Sobre mí
 
-Soy **QA Analyst** con experiencia en testing manual y automatizado, enfocado en aplicaciones financieras, APIs y validación de datos.
+Soy **QA Analyst** con experiencia en testing manual y automatizado
 
 Me especializo en:
 
@@ -18,7 +18,7 @@ Me especializo en:
 ✔ Validación de datos con SQL  
 ✔ Metodologías ágiles (Scrum)  
 
-Actualmente estoy fortaleciendo mis habilidades en **QA Automation orientado al sector Fintech y Bancario**.
+Actualmente estoy fortaleciendo mis habilidades en **QA Automation**.
 
 ---
 
